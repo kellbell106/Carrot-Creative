@@ -1,0 +1,9 @@
+a:link {
+ 	color: orange;
+ 	text-decoration: none
+ }
+
+ a:visited {
+ 	color: inherit;
+ 	text-decoration: none
+ }
