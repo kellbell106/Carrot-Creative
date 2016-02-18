@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-	color: #41AA35;
+	color: black;
 }
 
 a:link {
@@ -12,10 +12,10 @@ a:link {
  	text-decoration: none;
  }
 a:visited {
- 	color: inherit;
+ 	color: #5bc44d;
  	text-decoration: none;
  }
 
 a:hover {
-    color: #EF6518;
+    color: black;
 }
